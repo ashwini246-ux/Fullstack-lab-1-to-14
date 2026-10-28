@@ -1,0 +1,3 @@
+Hello Ashwini!
+This is my Node.js Streams practical.
+Readable streams read data, and writable streams write data.
